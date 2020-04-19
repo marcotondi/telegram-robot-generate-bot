@@ -1,6 +1,7 @@
 {
   "name": "telegram-robot-generate-bot",
   "version": "1.0.0",
+  "private": true,
   "description": "is a bot wrapper for telgram of the robohash.org site",
   "main": "index.js",
   "scripts": {
