@@ -1,0 +1,23 @@
+{
+  "name": "telegram-robot-generate-bot",
+  "version": "1.0.0",
+  "description": "is a bot wrapper for telgram of the robohash.org site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telgram",
+    "bot",
+    "telegraf",
+    "robohash"
+  ],
+  "author": "Marco Tondi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chance": "^1.1.4",
+    "path": "^0.12.7",
+    "telegraf": "^3.32.0",
+    "telegraf-i18n": "^6.6.0"
+  }
+}
